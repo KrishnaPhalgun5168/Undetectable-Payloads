@@ -1,5 +1,5 @@
 # Undetectable-Payloads
-#Veil #Windows #DoNotRun.
+#Veil #Windows #DoNotTest.
 </br>
 **Please, do not run these files in Windows Machine.**
 </br>
